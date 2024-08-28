@@ -8,9 +8,7 @@ This notebook is designed to guide you through the process of setting up and tra
 3. [Installation](#installation)
 4. [Notebook Structure](#notebook-structure)
 5. [Usage](#usage)
-6. [Output and Results](#output-and-results)
-7. [References](#references)
-8. [Author](#author)
+
 
 ## Project Overview
 This notebook demonstrates the end-to-end process of building a deep learning model for image classification using TensorFlow. It covers the following tasks:
